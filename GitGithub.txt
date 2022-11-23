@@ -3,3 +3,4 @@ kubra branchı
 master brancı deneme
 kubra brancı ilk deneme
 Git Githubta web üzerinde uygulamaya geçtik
+tekrar bir deneme yapacagız
